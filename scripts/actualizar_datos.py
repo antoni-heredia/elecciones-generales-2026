@@ -3,6 +3,7 @@
     python scripts/actualizar_datos.py            # usa la caché de data/raw si existe
     python scripts/actualizar_datos.py --refrescar  # vuelve a descargar las encuestas (no los resultados)
     python scripts/actualizar_datos.py --todo       # vuelve a descargarlo todo
+    python scripts/actualizar_datos.py --solo-encuestas  # baja y procesa solo las encuestas (la Action diaria)
 
 Salidas:
     data/encuestas.csv              una fila por encuesta nacional (estimación de voto y escaños publicados)
@@ -309,27 +310,23 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--refrescar", action="store_true", help="vuelve a descargar las encuestas")
     ap.add_argument("--todo", action="store_true", help="vuelve a descargarlo todo")
+    ap.add_argument("--solo-encuestas", action="store_true",
+                    help="baja de nuevo las encuestas y deja como están los CSV de resultados")
     args = ap.parse_args()
 
     for nombre, titulo in PAGINAS_ENCUESTAS.items():
-        descargar(nombre, titulo, RAW / f"{nombre}.html", forzar=args.refrescar or args.todo)
+        descargar(nombre, titulo, RAW / f"{nombre}.html", forzar=args.refrescar or args.todo or args.solo_encuestas)
+    if not args.solo_encuestas:
+        resultados(forzar=args.todo)
+    encuestas()
+
+
+def resultados(*, forzar: bool) -> None:
     for nombre, titulo in PAGINAS_RESULTADOS.items():
-        descargar(nombre, titulo, RAW / f"{nombre}.html", forzar=args.todo)
+        descargar(nombre, titulo, RAW / f"{nombre}.html", forzar=forzar)
     for wiki in PROVINCIAS.wiki:
         descargar(wiki, f"{wiki}_(Congress_of_Deputies_constituency)", RAW / "circunscripciones" / f"{wiki}.html",
-                  forzar=args.todo)
-
-    enc = pd.concat([
-        encuestas_nacionales((RAW / "encuestas_2026.html").read_text(encoding="utf-8"), [2026, 2026, 2025]),
-        encuestas_nacionales((RAW / "encuestas_2023_2024.html").read_text(encoding="utf-8"), [2024, 2023]),
-    ], ignore_index=True)
-    enc = enc.drop_duplicates(subset=["encuestadora", "medio", "fin_campo", "PP", "PSOE"])
-    enc.sort_values("fin_campo", ascending=False).to_csv(DATA / "encuestas.csv", index=False)
-    print(f"encuestas.csv: {len(enc)} filas ({enc.fin_campo.min()} → {enc.fin_campo.max()})")
-
-    sub = encuestas_subnacionales((RAW / "encuestas_subnacionales.html").read_text(encoding="utf-8"))
-    sub.to_csv(DATA / "encuestas_subnacionales.csv", index=False)
-    print(f"encuestas_subnacionales.csv: {len(sub)} filas, {sub.ambito.nunique()} ámbitos")
+                  forzar=forzar)
 
     res, cand = resultados_circunscripciones()
     res.to_csv(DATA / "resultados_2023.csv", index=False)
@@ -344,6 +341,20 @@ def main() -> None:
                                     {"AA": "AA"})
     an.to_csv(DATA / "andaluzas_2026.csv", index=False)
     print(f"europeas_2024.csv: {eu.cod.nunique()} provincias; andaluzas_2026.csv: {an.cod.nunique()} provincias")
+
+
+def encuestas() -> None:
+    enc = pd.concat([
+        encuestas_nacionales((RAW / "encuestas_2026.html").read_text(encoding="utf-8"), [2026, 2026, 2025]),
+        encuestas_nacionales((RAW / "encuestas_2023_2024.html").read_text(encoding="utf-8"), [2024, 2023]),
+    ], ignore_index=True)
+    enc = enc.drop_duplicates(subset=["encuestadora", "medio", "fin_campo", "PP", "PSOE"])
+    enc.sort_values("fin_campo", ascending=False).to_csv(DATA / "encuestas.csv", index=False)
+    print(f"encuestas.csv: {len(enc)} filas ({enc.fin_campo.min()} → {enc.fin_campo.max()})")
+
+    sub = encuestas_subnacionales((RAW / "encuestas_subnacionales.html").read_text(encoding="utf-8"))
+    sub.to_csv(DATA / "encuestas_subnacionales.csv", index=False)
+    print(f"encuestas_subnacionales.csv: {len(sub)} filas, {sub.ambito.nunique()} ámbitos")
 
 
 if __name__ == "__main__":

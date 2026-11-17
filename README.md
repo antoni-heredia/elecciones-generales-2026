@@ -20,9 +20,10 @@ Hermano de [elecciones-andalucia-2026](https://github.com/antoni-heredia/eleccio
 
 Escenarios: el promedio, cualquier encuesta concreta o porcentajes a mano.
 
-## Foto a 16 de noviembre de 2026
+<!-- foto:inicio -->
+## Foto a 16/11/2026
 
-Promedio de 16 encuestadoras (3–16 de noviembre), traslado proporcional:
+Promedio de 16 encuestadoras (03/11–16/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
@@ -55,12 +56,16 @@ PP + Vox suman 191 (mediana de la simulación: 193; ≥176 en el 99 % de las sim
 | Girona | ERC | PP | 1.541 | 0.45 |
 | Madrid | Vox | Se Acabó La Fiesta | 20.561 | 0.54 |
 | A Coruña | PSOE | Vox | 3.875 | 0.56 |
+<!-- foto:fin -->
+
+Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
 
 ## Usarlo
 
 ```sh
 pip install -r requirements.txt
-python scripts/actualizar_datos.py --refrescar   # baja las encuestas nuevas y regenera data/*.csv
+python scripts/actualizar_datos.py --solo-encuestas   # baja las encuestas nuevas y regenera data/encuestas*.csv
+python scripts/foto_readme.py                        # actualiza la foto del README
 streamlit run app.py
 ```
 
