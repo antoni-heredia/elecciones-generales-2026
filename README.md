@@ -27,35 +27,35 @@ Promedio de 16 encuestadoras (03/11–16/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 31.0 | 126 |
-| PSOE | 28.0 | 115 |
-| Vox | 18.6 | 65 |
-| ERC | 2.5 | 11 |
+| PP | 31.0 | 128 |
+| PSOE | 28.0 | 116 |
+| Vox | 18.5 | 65 |
+| ERC | 2.4 | 9 |
 | Frente Amplio | 5.4 | 8 |
 | EH Bildu | 1.5 | 7 |
 | Junts | 1.3 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
-| Compromís: Front Valencià | 1.2 | 3 |
+| Compromís: Front Valencià | 1.3 | 3 |
 | PNV | 0.8 | 3 |
 | BNG | 1.0 | 2 |
-| Podemos | 1.5 | 1 |
 | Coalición Canaria | 0.4 | 1 |
-| Se Acabó La Fiesta | 2.0 | 0 |
+| Podemos | 1.4 | 0 |
+| Se Acabó La Fiesta | 2.1 | 0 |
 
-PP + Vox suman 191 (mediana de la simulación: 193; ≥176 en el 99 % de las simulaciones).
+PP + Vox suman 193 (mediana de la simulación: 193; ≥176 en el 99 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Almería | PSOE | PP | 70 | 0.02 |
-| Palencia | PP | Vox | 40 | 0.04 |
-| Barcelona | PSOE | PP | 5.695 | 0.21 |
-| Tarragona | ERC | PSOE | 1.025 | 0.27 |
-| Pontevedra | PP | PSOE | 1.674 | 0.29 |
-| Girona | ERC | PP | 1.541 | 0.45 |
-| Madrid | Vox | Se Acabó La Fiesta | 20.561 | 0.54 |
-| A Coruña | PSOE | Vox | 3.875 | 0.56 |
+| Girona | ERC | PP | 113 | 0.03 |
+| Almería | PSOE | PP | 116 | 0.03 |
+| Madrid | PP | PSOE | 1.572 | 0.04 |
+| Palencia | PP | Vox | 75 | 0.08 |
+| Barcelona | PP | ERC | 6.085 | 0.22 |
+| Pontevedra | PP | PSOE | 1.609 | 0.28 |
+| A Coruña | PSOE | Vox | 3.998 | 0.58 |
+| Tarragona | PSOE | ERC | 2.543 | 0.66 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
