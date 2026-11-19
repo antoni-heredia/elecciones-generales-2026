@@ -27,35 +27,35 @@ Promedio de 15 encuestadoras (05/11–17/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 31.0 | 127 |
-| PSOE | 28.1 | 117 |
-| Vox | 18.6 | 65 |
-| ERC | 2.4 | 9 |
+| PP | 30.9 | 125 |
+| PSOE | 28.2 | 116 |
+| Vox | 18.6 | 66 |
+| ERC | 2.5 | 11 |
 | Frente Amplio | 5.3 | 8 |
 | EH Bildu | 1.5 | 7 |
 | Junts | 1.3 | 4 |
 | Adelante Andalucía | 1.6 | 4 |
-| Compromís: Front Valencià | 1.3 | 3 |
+| Compromís: Front Valencià | 1.4 | 3 |
 | PNV | 0.8 | 3 |
 | BNG | 1.0 | 2 |
 | Coalición Canaria | 0.4 | 1 |
 | Podemos | 1.3 | 0 |
 | Se Acabó La Fiesta | 2.1 | 0 |
 
-PP + Vox suman 192 (mediana de la simulación: 193; ≥176 en el 99 % de las simulaciones).
+PP + Vox suman 191 (mediana de la simulación: 193; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Palencia | PP | Vox | 51 | 0.05 |
-| Madrid | PSOE | PP | 2.427 | 0.06 |
-| Girona | ERC | PP | 348 | 0.10 |
-| Barcelona | PP | ERC | 2.902 | 0.10 |
-| Almería | PSOE | PP | 503 | 0.15 |
-| Pontevedra | PP | PSOE | 1.064 | 0.18 |
-| Sevilla | Adelante Andalucía | Vox | 4.406 | 0.40 |
-| Tarragona | PSOE | ERC | 2.257 | 0.58 |
+| Pontevedra | PP | PSOE | 77 | 0.01 |
+| Palencia | Vox | PP | 24 | 0.02 |
+| Tarragona | ERC | PSOE | 688 | 0.18 |
+| Barcelona | Frente Amplio | PP | 6.531 | 0.24 |
+| Madrid | PSOE | PP | 11.239 | 0.29 |
+| Almería | PSOE | PP | 1.202 | 0.36 |
+| Sevilla | Adelante Andalucía | Vox | 4.842 | 0.44 |
+| Girona | ERC | PP | 1.748 | 0.51 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
