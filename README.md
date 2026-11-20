@@ -21,17 +21,17 @@ Hermano de [elecciones-andalucia-2026](https://github.com/antoni-heredia/eleccio
 Escenarios: el promedio, cualquier encuesta concreta o porcentajes a mano.
 
 <!-- foto:inicio -->
-## Foto a 18/11/2026
+## Foto a 19/11/2026
 
-Promedio de 16 encuestadoras (05/11–18/11), traslado proporcional:
+Promedio de 15 encuestadoras (06/11–19/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 30.8 | 124 |
-| PSOE | 28.1 | 117 |
-| Vox | 18.6 | 66 |
+| PP | 30.8 | 125 |
+| PSOE | 28.3 | 117 |
+| Vox | 18.7 | 66 |
 | ERC | 2.5 | 11 |
-| Frente Amplio | 5.2 | 8 |
+| Frente Amplio | 5.1 | 7 |
 | EH Bildu | 1.5 | 7 |
 | Junts | 1.2 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
@@ -42,20 +42,20 @@ Promedio de 16 encuestadoras (05/11–18/11), traslado proporcional:
 | Podemos | 1.3 | 0 |
 | Se Acabó La Fiesta | 2.1 | 0 |
 
-PP + Vox suman 190 (mediana de la simulación: 192; ≥176 en el 98 % de las simulaciones).
+PP + Vox suman 191 (mediana de la simulación: 192; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Barcelona | Frente Amplio | PP | 4.221 | 0.15 |
-| Pontevedra | PSOE | PP | 948 | 0.16 |
-| Madrid | PSOE | Podemos | 8.511 | 0.22 |
-| Palencia | Vox | PP | 399 | 0.41 |
-| Ceuta | PP | Vox | 150 | 0.43 |
-| Tarragona | ERC | PSOE | 1.938 | 0.50 |
-| Almería | PSOE | PP | 1.754 | 0.52 |
-| A Coruña | PSOE | Vox | 3.994 | 0.58 |
+| Barcelona | PP | Frente Amplio | 1.596 | 0.06 |
+| Tarragona | ERC | PSOE | 1.168 | 0.30 |
+| Pontevedra | PSOE | PP | 1.912 | 0.33 |
+| Madrid | PSOE | Podemos | 13.172 | 0.34 |
+| Ceuta | PP | Vox | 126 | 0.36 |
+| Palencia | Vox | PP | 478 | 0.49 |
+| Zamora | PP | Vox | 554 | 0.54 |
+| Sevilla | Adelante Andalucía | Vox | 5.968 | 0.55 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
