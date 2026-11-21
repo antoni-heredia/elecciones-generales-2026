@@ -27,35 +27,35 @@ Promedio de 15 encuestadoras (08/11–20/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 30.7 | 124 |
-| PSOE | 28.6 | 118 |
+| PP | 30.8 | 124 |
+| PSOE | 28.5 | 118 |
 | Vox | 18.5 | 66 |
 | ERC | 2.5 | 10 |
 | Frente Amplio | 5.2 | 8 |
 | EH Bildu | 1.5 | 7 |
 | Junts | 1.2 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
-| Compromís: Front Valencià | 1.3 | 3 |
-| PNV | 0.9 | 3 |
+| Compromís: Front Valencià | 1.4 | 3 |
+| PNV | 0.8 | 3 |
 | BNG | 1.0 | 2 |
 | Coalición Canaria | 0.4 | 1 |
 | Podemos | 1.2 | 0 |
 | Se Acabó La Fiesta | 2.1 | 0 |
 
-PP + Vox suman 190 (mediana de la simulación: 191; ≥176 en el 98 % de las simulaciones).
+PP + Vox suman 190 (mediana de la simulación: 192; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
 | Palencia | Vox | PP | 107 | 0.11 |
-| Barcelona | Frente Amplio | PP | 6.168 | 0.22 |
-| Cáceres | PP | PSOE | 698 | 0.25 |
-| Girona | ERC | PP | 1.431 | 0.42 |
-| Madrid | PSOE | Podemos | 16.980 | 0.44 |
-| Tarragona | PSOE | ERC | 1.821 | 0.47 |
-| Ceuta | PP | Vox | 236 | 0.69 |
-| Zamora | PP | Vox | 755 | 0.73 |
+| Tarragona | PSOE | ERC | 705 | 0.18 |
+| Barcelona | Frente Amplio | PP | 6.061 | 0.22 |
+| Cáceres | PP | PSOE | 1.230 | 0.45 |
+| Madrid | PSOE | Podemos | 17.268 | 0.45 |
+| Girona | ERC | PP | 1.720 | 0.51 |
+| Pontevedra | PSOE | PP | 3.129 | 0.54 |
+| Ceuta | PP | Vox | 237 | 0.69 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
