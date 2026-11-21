@@ -23,39 +23,39 @@ Escenarios: el promedio, cualquier encuesta concreta o porcentajes a mano.
 <!-- foto:inicio -->
 ## Foto a 20/11/2026
 
-Promedio de 14 encuestadoras (08/11–20/11), traslado proporcional:
+Promedio de 15 encuestadoras (08/11–20/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 30.8 | 124 |
-| PSOE | 28.5 | 117 |
-| Vox | 18.6 | 66 |
-| ERC | 2.5 | 11 |
-| Frente Amplio | 5.1 | 8 |
+| PP | 30.7 | 124 |
+| PSOE | 28.6 | 118 |
+| Vox | 18.5 | 66 |
+| ERC | 2.5 | 10 |
+| Frente Amplio | 5.2 | 8 |
 | EH Bildu | 1.5 | 7 |
-| Junts | 1.3 | 4 |
+| Junts | 1.2 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
 | Compromís: Front Valencià | 1.3 | 3 |
-| PNV | 0.8 | 3 |
+| PNV | 0.9 | 3 |
 | BNG | 1.0 | 2 |
 | Coalición Canaria | 0.4 | 1 |
-| Podemos | 1.3 | 0 |
-| Se Acabó La Fiesta | 2.0 | 0 |
+| Podemos | 1.2 | 0 |
+| Se Acabó La Fiesta | 2.1 | 0 |
 
-PP + Vox suman 190 (mediana de la simulación: 192; ≥176 en el 98 % de las simulaciones).
+PP + Vox suman 190 (mediana de la simulación: 191; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Barcelona | Frente Amplio | PP | 111 | 0.00 |
-| Tarragona | ERC | PSOE | 330 | 0.09 |
-| Palencia | Vox | PP | 332 | 0.34 |
-| Cáceres | PP | PSOE | 1.035 | 0.38 |
-| Madrid | PSOE | Podemos | 14.404 | 0.38 |
-| Ceuta | PP | Vox | 169 | 0.49 |
-| Zamora | PP | Vox | 633 | 0.61 |
-| Pontevedra | PSOE | PP | 3.623 | 0.62 |
+| Palencia | Vox | PP | 107 | 0.11 |
+| Barcelona | Frente Amplio | PP | 6.168 | 0.22 |
+| Cáceres | PP | PSOE | 698 | 0.25 |
+| Girona | ERC | PP | 1.431 | 0.42 |
+| Madrid | PSOE | Podemos | 16.980 | 0.44 |
+| Tarragona | PSOE | ERC | 1.821 | 0.47 |
+| Ceuta | PP | Vox | 236 | 0.69 |
+| Zamora | PP | Vox | 755 | 0.73 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
