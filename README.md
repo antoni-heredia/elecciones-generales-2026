@@ -23,39 +23,39 @@ Escenarios: el promedio, cualquier encuesta concreta o porcentajes a mano.
 <!-- foto:inicio -->
 ## Foto a 21/11/2026
 
-Promedio de 15 encuestadoras (08/11–21/11), traslado proporcional:
+Promedio de 20 encuestadoras (12/11–21/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 31.0 | 126 |
-| PSOE | 28.7 | 117 |
-| Vox | 18.5 | 65 |
+| PP | 31.1 | 125 |
+| PSOE | 28.6 | 117 |
+| Vox | 18.4 | 65 |
 | ERC | 2.6 | 11 |
-| Frente Amplio | 5.0 | 7 |
+| Frente Amplio | 5.4 | 8 |
 | EH Bildu | 1.5 | 7 |
-| Junts | 1.2 | 4 |
+| Junts | 1.3 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
 | Compromís: Front Valencià | 1.3 | 3 |
 | PNV | 0.8 | 3 |
-| BNG | 1.0 | 2 |
+| BNG | 0.9 | 2 |
 | Coalición Canaria | 0.4 | 1 |
 | Podemos | 1.2 | 0 |
 | Se Acabó La Fiesta | 2.0 | 0 |
 
-PP + Vox suman 191 (mediana de la simulación: 191; ≥176 en el 98 % de las simulaciones).
+PP + Vox suman 190 (mediana de la simulación: 191; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Tarragona | ERC | PSOE | 434 | 0.11 |
-| Palencia | PP | Vox | 130 | 0.13 |
-| Cáceres | PP | PSOE | 926 | 0.34 |
-| Barcelona | PP | Frente Amplio | 9.551 | 0.35 |
-| Madrid | PSOE | Se Acabó La Fiesta | 20.628 | 0.54 |
-| Segovia | Vox | PP | 531 | 0.59 |
-| Girona | ERC | PP | 2.290 | 0.67 |
-| Pontevedra | PSOE | PP | 3.977 | 0.68 |
+| Segovia | Vox | PP | 214 | 0.24 |
+| Palencia | PP | Vox | 289 | 0.30 |
+| Barcelona | Frente Amplio | Junts | 9.659 | 0.35 |
+| Pontevedra | PSOE | PP | 2.566 | 0.44 |
+| Cáceres | PP | PSOE | 1.493 | 0.54 |
+| Madrid | PSOE | Se Acabó La Fiesta | 22.326 | 0.58 |
+| Tarragona | ERC | PSOE | 2.809 | 0.73 |
+| Almería | PSOE | PP | 2.617 | 0.78 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
