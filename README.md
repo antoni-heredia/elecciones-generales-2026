@@ -21,41 +21,41 @@ Hermano de [elecciones-andalucia-2026](https://github.com/antoni-heredia/eleccio
 Escenarios: el promedio, cualquier encuesta concreta o porcentajes a mano.
 
 <!-- foto:inicio -->
-## Foto a 20/11/2026
+## Foto a 21/11/2026
 
-Promedio de 15 encuestadoras (08/11–20/11), traslado proporcional:
+Promedio de 15 encuestadoras (08/11–21/11), traslado proporcional:
 
 | Partido | Voto % | Escaños |
 |---|---:|---:|
-| PP | 30.8 | 124 |
-| PSOE | 28.5 | 118 |
-| Vox | 18.5 | 66 |
-| ERC | 2.5 | 10 |
-| Frente Amplio | 5.2 | 8 |
+| PP | 31.0 | 126 |
+| PSOE | 28.7 | 117 |
+| Vox | 18.5 | 65 |
+| ERC | 2.6 | 11 |
+| Frente Amplio | 5.0 | 7 |
 | EH Bildu | 1.5 | 7 |
 | Junts | 1.2 | 4 |
 | Adelante Andalucía | 1.7 | 4 |
-| Compromís: Front Valencià | 1.4 | 3 |
+| Compromís: Front Valencià | 1.3 | 3 |
 | PNV | 0.8 | 3 |
 | BNG | 1.0 | 2 |
 | Coalición Canaria | 0.4 | 1 |
 | Podemos | 1.2 | 0 |
-| Se Acabó La Fiesta | 2.1 | 0 |
+| Se Acabó La Fiesta | 2.0 | 0 |
 
-PP + Vox suman 190 (mediana de la simulación: 192; ≥176 en el 98 % de las simulaciones).
+PP + Vox suman 191 (mediana de la simulación: 191; ≥176 en el 98 % de las simulaciones).
 
 Últimos escaños más ajustados:
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Palencia | Vox | PP | 107 | 0.11 |
-| Tarragona | PSOE | ERC | 705 | 0.18 |
-| Barcelona | Frente Amplio | PP | 6.061 | 0.22 |
-| Cáceres | PP | PSOE | 1.230 | 0.45 |
-| Madrid | PSOE | Podemos | 17.268 | 0.45 |
-| Girona | ERC | PP | 1.720 | 0.51 |
-| Pontevedra | PSOE | PP | 3.129 | 0.54 |
-| Ceuta | PP | Vox | 237 | 0.69 |
+| Tarragona | ERC | PSOE | 434 | 0.11 |
+| Palencia | PP | Vox | 130 | 0.13 |
+| Cáceres | PP | PSOE | 926 | 0.34 |
+| Barcelona | PP | Frente Amplio | 9.551 | 0.35 |
+| Madrid | PSOE | Se Acabó La Fiesta | 20.628 | 0.54 |
+| Segovia | Vox | PP | 531 | 0.59 |
+| Girona | ERC | PP | 2.290 | 0.67 |
+| Pontevedra | PSOE | PP | 3.977 | 0.68 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
