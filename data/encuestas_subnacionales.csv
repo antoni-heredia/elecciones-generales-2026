@@ -20,6 +20,13 @@ Andalusia,SW Demoscopia,La Séptima,2026-11-14,encuesta,,AA,,3.0,3.0
 Andalusia,SW Demoscopia,La Séptima,2026-11-14,encuesta,,Podemos,,0.0,0.0
 Andalusia,SW Demoscopia,La Séptima,2026-11-14,encuesta,,SALF,,0.0,0.0
 Andalusia,SW Demoscopia,La Séptima,2026-11-14,encuesta,,FA,,0.0,2.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,PP,30.5,34.0,34.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,PSOE,27.3,31.0,31.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,Vox,16.2,19.0,19.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,AA,7.4,10.0,10.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,Podemos,0.7,1.0,1.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,SALF,1.5,2.0,2.0
+Andalusia,Social Data,Grupo Viva,2026-11-14,encuesta,,FA,3.9,5.0,5.0
 Andalusia,Sondaxe,La Voz de Galicia,2026-11-13,encuesta,,PP,,24.0,24.0
 Andalusia,Sondaxe,La Voz de Galicia,2026-11-13,encuesta,,PSOE,,18.0,18.0
 Andalusia,Sondaxe,La Voz de Galicia,2026-11-13,encuesta,,Vox,,14.0,14.0
@@ -238,6 +245,11 @@ Andalusia,2023 general election,,2022-07-23,resultado,,PSOE,33.5,21.0,21.0
 Andalusia,2023 general election,,2022-07-23,resultado,,Vox,15.3,9.0,9.0
 Andalusia,2023 general election,,2022-07-23,resultado,,Sumar,12.0,6.0,6.0
 Andalusia,2023 general election,,2022-07-23,resultado,,AA,0.2,0.0,0.0
+Aragon,Social Data,Grupo Viva,2026-11-19,encuesta,,PP,33.7,4.0,5.0
+Aragon,Social Data,Grupo Viva,2026-11-19,encuesta,,PSOE,27.7,4.0,4.0
+Aragon,Social Data,Grupo Viva,2026-11-19,encuesta,,Vox,20.7,3.0,4.0
+Aragon,Social Data,Grupo Viva,2026-11-19,encuesta,,Existe,3.2,0.0,0.0
+Aragon,Social Data,Grupo Viva,2026-11-19,encuesta,,FA,9.9,1.0,1.0
 Aragon,SocioMétrica,El Español,2026-11-15,encuesta,,PP,,5.0,5.0
 Aragon,SocioMétrica,El Español,2026-11-15,encuesta,,PSOE,,4.0,4.0
 Aragon,SocioMétrica,El Español,2026-11-15,encuesta,,Vox,,3.0,3.0
@@ -2161,10 +2173,15 @@ Extremadura,2023 general election,,2023-07-23,resultado,,PSOE,39.1,4.0,4.0
 Extremadura,2023 general election,,2023-07-23,resultado,,PP,37.9,4.0,4.0
 Extremadura,2023 general election,,2023-07-23,resultado,,Vox,13.6,1.0,1.0
 Extremadura,2023 general election,,2023-07-23,resultado,,Sumar,6.9,0.0,0.0
-Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,40.2,14.0,14.0
-Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,27.5,7.0,7.0
-Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,16.8,2.0,2.0
-Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,6.1,0.0,0.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PP,41.4,14.0,14.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PSdeG–PSOE,28.7,7.0,7.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,BNG,15.4,2.0,2.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,Vox,7.0,0.0,0.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,FA,,0.0,0.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,41.8,14.0,14.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,28.2,7.0,7.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,15.2,2.0,2.0
+Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,7.8,0.0,0.0
 Galicia,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,FA,,0.0,0.0
 Galicia,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PP,42.3,13.0,13.0
 Galicia,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PSdeG–PSOE,26.4,7.0,7.0
@@ -3403,6 +3420,31 @@ Valencian Community,2023 general election,,2023-07-23,resultado,,PP,34.9,13.0,13
 Valencian Community,2023 general election,,2023-07-23,resultado,,PSOE,32.1,11.0,11.0
 Valencian Community,2023 general election,,2023-07-23,resultado,,Vox,15.6,5.0,5.0
 Valencian Community,2023 general election,,2023-07-23,resultado,,Sumar,15.2,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PP,39.6,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PSdeG–PSOE,30.5,3.0,3.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,BNG,15.5,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,Vox,7.3,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,FA,,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,41.4,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,29.9,3.0,3.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,15.3,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,8.4,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,FA,,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PP,41.3,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PSdeG–PSOE,27.3,2.0,2.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,BNG,15.8,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,Vox,9.8,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,FA,,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PP,40.3,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PSdeG–PSOE,26.1,2.0,2.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,BNG,17.4,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,Vox,10.2,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,FA,,0.0,0.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PP,40.8,4.0,4.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PSdeG–PSOE,26.3,2.0,2.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,BNG,15.4,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,Vox,11.1,1.0,1.0
+A Coruña,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,FA,,0.0,0.0
 A Coruña,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PP,40.8,4.0,4.0
 A Coruña,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PSdeG–PSOE,25.1,2.0,2.0
 A Coruña,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,BNG,16.1,1.0,1.0
@@ -3483,6 +3525,27 @@ Alicante,2023 general election,,2025-07-23,resultado,,PP,36.7,5.0,5.0
 Alicante,2023 general election,,2025-07-23,resultado,,PSOE,32.0,4.0,4.0
 Alicante,2023 general election,,2025-07-23,resultado,,Vox,16.3,2.0,2.0
 Alicante,2023 general election,,2025-07-23,resultado,,Sumem per Guanyar,12.9,1.0,1.0
+Almería,Social Data,Grupo Viva,2026-11-14,encuesta,,PP,37.5,2.0,3.0
+Almería,Social Data,Grupo Viva,2026-11-14,encuesta,,PSOE,26.5,2.0,2.0
+Almería,Social Data,Grupo Viva,2026-11-14,encuesta,,Vox,25.4,1.0,2.0
+Almería,Social Data,Grupo Viva,2026-11-14,encuesta,,AA,2.9,0.0,0.0
+Almería,Social Data,Grupo Viva,2026-11-14,encuesta,,FA,2.7,0.0,0.0
+Almería,2026 regional election,,2026-05-17,resultado,,PP,42.7,,
+Almería,2026 regional election,,2026-05-17,resultado,,PSOE,21.7,,
+Almería,2026 regional election,,2026-05-17,resultado,,Vox,23.2,,
+Almería,2026 regional election,,2026-05-17,resultado,,Sumar,3.8,,
+Almería,2026 regional election,,2026-05-17,resultado,,AA,3.1,,
+Almería,2026 regional election,,2026-05-17,resultado,,SALF,2.9,,
+Almería,2024 EP election,,2025-06-09,resultado,,PP,42.8,,
+Almería,2024 EP election,,2025-06-09,resultado,,PSOE,26.8,,
+Almería,2024 EP election,,2025-06-09,resultado,,Vox,15.2,,
+Almería,2024 EP election,,2025-06-09,resultado,,Sumar,2.8,,
+Almería,2024 EP election,,2025-06-09,resultado,,Podemos,1.8,,
+Almería,2024 EP election,,2025-06-09,resultado,,SALF,7.0,,
+Almería,2023 general election,,2024-07-23,resultado,,PP,40.9,3.0,3.0
+Almería,2023 general election,,2024-07-23,resultado,,PSOE,29.0,2.0,2.0
+Almería,2023 general election,,2024-07-23,resultado,,Vox,21.3,1.0,1.0
+Almería,2023 general election,,2024-07-23,resultado,,Sumar,6.7,0.0,0.0
 Biscay,Ikerfel,GPS,2026-10-23,encuesta,,PNV,24.7,2.0,2.0
 Biscay,Ikerfel,GPS,2026-10-23,encuesta,,PSE–EE (PSOE),25.0,2.0,2.0
 Biscay,Ikerfel,GPS,2026-10-23,encuesta,,Bildu,25.9,3.0,3.0
@@ -3503,6 +3566,11 @@ Biscay,2023 general election,,2025-07-23,resultado,,Bildu,20.6,2.0,2.0
 Biscay,2023 general election,,2025-07-23,resultado,,PP,11.6,1.0,1.0
 Biscay,2023 general election,,2025-07-23,resultado,,Sumar,10.9,1.0,1.0
 Biscay,2023 general election,,2025-07-23,resultado,,Vox,2.6,0.0,0.0
+Cádiz,Social Data,Grupo Viva,2026-11-14,encuesta,,PP,29.7,2.0,3.0
+Cádiz,Social Data,Grupo Viva,2026-11-14,encuesta,,PSOE,27.7,2.0,3.0
+Cádiz,Social Data,Grupo Viva,2026-11-14,encuesta,,Vox,17.2,1.0,2.0
+Cádiz,Social Data,Grupo Viva,2026-11-14,encuesta,,AA,12.9,1.0,1.0
+Cádiz,Social Data,Grupo Viva,2026-11-14,encuesta,,FA,5.0,0.0,0.0
 Cádiz,EM-Analytics,Electomanía,2026-11-06,encuesta,,PP,27.7,2.0,3.0
 Cádiz,EM-Analytics,Electomanía,2026-11-06,encuesta,,PSOE,25.2,2.0,3.0
 Cádiz,EM-Analytics,Electomanía,2026-11-06,encuesta,,Vox,16.2,1.0,2.0
@@ -3541,6 +3609,27 @@ Castellón,2023 general election,,2025-07-23,resultado,,PP,35.2,2.0,2.0
 Castellón,2023 general election,,2025-07-23,resultado,,PSOE,32.6,2.0,2.0
 Castellón,2023 general election,,2025-07-23,resultado,,Vox,15.9,1.0,1.0
 Castellón,2023 general election,,2025-07-23,resultado,,Sumem per Guanyar,14.3,0.0,0.0
+Córdoba,Social Data,Grupo Viva,2026-11-14,encuesta,,PP,35.2,3.0,3.0
+Córdoba,Social Data,Grupo Viva,2026-11-14,encuesta,,PSOE,28.1,2.0,2.0
+Córdoba,Social Data,Grupo Viva,2026-11-14,encuesta,,Vox,16.8,1.0,1.0
+Córdoba,Social Data,Grupo Viva,2026-11-14,encuesta,,AA,7.8,0.0,0.0
+Córdoba,Social Data,Grupo Viva,2026-11-14,encuesta,,FA,5.6,0.0,0.0
+Córdoba,2026 regional election,,2026-05-17,resultado,,PP,43.2,,
+Córdoba,2026 regional election,,2026-05-17,resultado,,PSOE,22.3,,
+Córdoba,2026 regional election,,2026-05-17,resultado,,Vox,12.6,,
+Córdoba,2026 regional election,,2026-05-17,resultado,,Sumar,8.8,,
+Córdoba,2026 regional election,,2026-05-17,resultado,,AA,8.3,,
+Córdoba,2026 regional election,,2026-05-17,resultado,,SALF,2.1,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,PP,39.7,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,PSOE,31.4,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,Vox,10.2,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,Sumar,6.5,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,Podemos,2.6,,
+Córdoba,2024 EP election,,2025-06-09,resultado,,SALF,5.3,,
+Córdoba,2023 general election,,2024-07-23,resultado,,PP,37.9,2.0,2.0
+Córdoba,2023 general election,,2024-07-23,resultado,,PSOE,32.1,2.0,2.0
+Córdoba,2023 general election,,2024-07-23,resultado,,Vox,13.9,1.0,1.0
+Córdoba,2023 general election,,2024-07-23,resultado,,Sumar,13.7,1.0,1.0
 Gipuzkoa,Ikerfel,GPS,2026-10-23,encuesta,,Bildu,36.9,3.0,3.0
 Gipuzkoa,Ikerfel,GPS,2026-10-23,encuesta,,PSE–EE (PSOE),22.8,2.0,2.0
 Gipuzkoa,Ikerfel,GPS,2026-10-23,encuesta,,PNV,20.3,1.0,1.0
@@ -3561,6 +3650,27 @@ Gipuzkoa,2023 general election,,2025-07-23,resultado,,PNV,22.6,2.0,2.0
 Gipuzkoa,2023 general election,,2025-07-23,resultado,,Sumar,10.6,0.0,0.0
 Gipuzkoa,2023 general election,,2025-07-23,resultado,,PP,8.7,0.0,0.0
 Gipuzkoa,2023 general election,,2025-07-23,resultado,,Vox,2.1,0.0,0.0
+Granada,Social Data,Grupo Viva,2026-11-14,encuesta,,PP,33.9,3.0,3.0
+Granada,Social Data,Grupo Viva,2026-11-14,encuesta,,PSOE,30.0,2.0,3.0
+Granada,Social Data,Grupo Viva,2026-11-14,encuesta,,Vox,19.2,1.0,2.0
+Granada,Social Data,Grupo Viva,2026-11-14,encuesta,,AA,6.3,0.0,0.0
+Granada,Social Data,Grupo Viva,2026-11-14,encuesta,,FA,4.7,0.0,0.0
+Granada,2026 regional election,,2026-05-17,resultado,,PP,42.4,,
+Granada,2026 regional election,,2026-05-17,resultado,,PSOE,24.3,,
+Granada,2026 regional election,,2026-05-17,resultado,,Vox,15.1,,
+Granada,2026 regional election,,2026-05-17,resultado,,Sumar,6.5,,
+Granada,2026 regional election,,2026-05-17,resultado,,AA,6.8,,
+Granada,2026 regional election,,2026-05-17,resultado,,SALF,2.3,,
+Granada,2024 EP election,,2025-06-09,resultado,,PP,38.3,,
+Granada,2024 EP election,,2025-06-09,resultado,,PSOE,32.0,,
+Granada,2024 EP election,,2025-06-09,resultado,,Vox,11.6,,
+Granada,2024 EP election,,2025-06-09,resultado,,Sumar,4.8,,
+Granada,2024 EP election,,2025-06-09,resultado,,AA,3.0,,
+Granada,2024 EP election,,2025-06-09,resultado,,SALF,6.0,,
+Granada,2023 general election,,2024-07-23,resultado,,PP,37.0,3.0,3.0
+Granada,2023 general election,,2024-07-23,resultado,,PSOE,33.0,2.0,2.0
+Granada,2023 general election,,2024-07-23,resultado,,Vox,16.1,1.0,1.0
+Granada,2023 general election,,2024-07-23,resultado,,Sumar,11.6,1.0,1.0
 Las Palmas,GCEMOP,Atlántico Hoy,2026-11-11,encuesta,,PSOE,25.0,26.0,26.0
 Las Palmas,GCEMOP,Atlántico Hoy,2026-11-11,encuesta,,PP,19.0,20.0,20.0
 Las Palmas,GCEMOP,Atlántico Hoy,2026-11-11,encuesta,,Vox,17.0,18.0,18.0
@@ -3601,6 +3711,31 @@ León,2023 general election,,2024-07-23,resultado,,PSOE,33.6,2.0,2.0
 León,2023 general election,,2024-07-23,resultado,,Vox,12.9,0.0,0.0
 León,2023 general election,,2024-07-23,resultado,,UPL,8.2,0.0,0.0
 León,2023 general election,,2024-07-23,resultado,,Sumar,6.7,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PP,46.7,3.0,3.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PSdeG–PSOE,27.8,1.0,1.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,BNG,13.8,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,Vox,7.4,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,FA,,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,46.0,3.0,3.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,28.6,1.0,1.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,12.7,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,7.7,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,FA,,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PP,44.6,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PSdeG–PSOE,30.2,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,BNG,11.8,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,Vox,7.6,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,FA,,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PP,44.9,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PSdeG–PSOE,30.7,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,BNG,11.4,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,Vox,8.0,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,FA,,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PP,43.9,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PSdeG–PSOE,29.4,2.0,2.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,BNG,9.6,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,Vox,10.4,0.0,0.0
+Lugo,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,FA,,0.0,0.0
 Lugo,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PP,43.4,2.0,2.0
 Lugo,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PSdeG–PSOE,29.6,2.0,2.0
 Lugo,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,BNG,11.4,0.0,0.0
@@ -3657,6 +3792,31 @@ Melilla,2023 general election,,2024-07-23,resultado,,PSOE,25.4,0.0,0.0
 Melilla,2023 general election,,2024-07-23,resultado,,Vox,15.9,0.0,0.0
 Melilla,2023 general election,,2024-07-23,resultado,,CpM,4.7,0.0,0.0
 Melilla,2023 general election,,2024-07-23,resultado,,Sumar,3.0,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PP,45.2,3.0,3.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PSdeG–PSOE,22.6,1.0,1.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,BNG,13.5,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,Vox,10.6,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,FA,,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,45.5,3.0,3.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,23.6,1.0,1.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,12.4,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,11.0,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,FA,,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PP,46.8,3.0,3.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PSdeG–PSOE,25.4,1.0,1.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,BNG,11.2,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,Vox,10.4,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,FA,,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PP,48.3,3.0,3.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PSdeG–PSOE,26.6,1.0,1.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,BNG,9.3,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,Vox,8.7,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,FA,,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PP,45.6,3.0,3.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PSdeG–PSOE,27.5,1.0,1.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,BNG,8.4,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,Vox,10.9,0.0,0.0
+Ourense,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,FA,,0.0,0.0
 Ourense,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PP,46.7,3.0,3.0
 Ourense,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PSdeG–PSOE,27.8,1.0,1.0
 Ourense,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,BNG,8.9,0.0,0.0
@@ -3695,6 +3855,31 @@ Ourense,2023 general election,,2024-07-23,resultado,,PSdeG–PSOE,30.1,1.0,1.0
 Ourense,2023 general election,,2024-07-23,resultado,,BNG,8.2,0.0,0.0
 Ourense,2023 general election,,2024-07-23,resultado,,Sumar,5.5,0.0,0.0
 Ourense,2023 general election,,2024-07-23,resultado,,Vox,4.9,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PP,40.6,4.0,4.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,PSdeG–PSOE,28.5,2.0,2.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,BNG,16.4,1.0,1.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,Vox,5.5,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-20,encuesta,,FA,,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PP,40.2,4.0,4.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,PSdeG–PSOE,27.5,2.0,2.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,BNG,16.8,1.0,1.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,Vox,6.1,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-19,encuesta,,FA,,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PP,41.5,4.0,4.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,PSdeG–PSOE,24.5,2.0,2.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,BNG,16.5,1.0,1.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,Vox,5.9,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-18,encuesta,,FA,,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PP,40.0,4.0,4.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,PSdeG–PSOE,26.0,2.0,2.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,BNG,15.7,1.0,1.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,Vox,7.2,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-17,encuesta,,FA,,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PP,39.5,4.0,4.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,PSdeG–PSOE,28.5,2.0,2.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,BNG,13.7,1.0,1.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,Vox,7.8,0.0,0.0
+Pontevedra,Sondaxe,La Voz de Galicia,2026-11-16,encuesta,,FA,,0.0,0.0
 Pontevedra,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PP,39.0,3.0,3.0
 Pontevedra,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,PSdeG–PSOE,30.8,3.0,3.0
 Pontevedra,Sondaxe,La Voz de Galicia,2026-11-15,encuesta,,BNG,13.0,1.0,1.0
