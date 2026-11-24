@@ -33,7 +33,7 @@ Promedio de 29 encuestadoras (16/11–23/11), traslado proporcional:
 | ERC | 2.7 | 11 |
 | Frente Amplio | 5.5 | 8 |
 | EH Bildu | 1.5 | 7 |
-| Junts | 1.2 | 4 |
+| Junts | 1.3 | 4 |
 | Adelante Andalucía | 1.8 | 4 |
 | Compromís: Front Valencià | 1.5 | 3 |
 | PNV | 0.8 | 3 |
@@ -48,14 +48,14 @@ PP + Vox suman 189 (mediana de la simulación: 188; ≥176 en el 92 % de las sim
 
 | Provincia | Último escaño | Rival | Le faltan (votos) | (pp) |
 |---|---|---|---:|---:|
-| Murcia | Vox | PSOE | 2.644 | 0.34 |
-| Cáceres | PSOE | PP | 1.056 | 0.38 |
-| Madrid | Vox | Frente Amplio | 19.052 | 0.50 |
-| Segovia | PP | Vox | 502 | 0.56 |
-| Valencia | Vox | Compromís: Front Valencià | 10.904 | 0.73 |
-| Barcelona | Vox | Junts | 23.060 | 0.83 |
-| Palencia | PP | Vox | 891 | 0.92 |
-| Sevilla | Adelante Andalucía | Frente Amplio | 10.477 | 0.96 |
+| Murcia | Vox | PSOE | 2.671 | 0.34 |
+| Cáceres | PSOE | PP | 1.112 | 0.40 |
+| Madrid | Vox | Frente Amplio | 19.112 | 0.50 |
+| Segovia | PP | Vox | 486 | 0.54 |
+| Valencia | Vox | Compromís: Front Valencià | 10.893 | 0.73 |
+| Barcelona | Vox | Junts | 21.931 | 0.79 |
+| Palencia | PP | Vox | 876 | 0.90 |
+| Sevilla | Adelante Andalucía | Frente Amplio | 10.073 | 0.93 |
 <!-- foto:fin -->
 
 Se actualiza sola tres veces al día (GitHub Actions: `.github/workflows/actualizar.yml`).
